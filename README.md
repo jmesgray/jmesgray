@@ -2,4 +2,4 @@
 
 ##### Interests:
 * Data & Statistical Analysis
-* Machine Learning
+* Financial Analysis
